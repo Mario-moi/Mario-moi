@@ -22,7 +22,11 @@ Application web développée en Java Web pour gérer les patients, les médecins
 
 👉 [Voir le projet](https://github.com/Mario-moi/gestion-rdv)
 
-D'autres projets seront ajoutés progressivement sur ce profil.
+### 🏗️ Gestion d'une Entreprise de Construction
+
+Application web Full Stack développée avec un **Frontend React/TypeScript** et un **Backend Node.js/Express**, avec une base de données **PostgreSQL**.
+
+👉 [Voir le projet](https://github.com/Mario-moi/licence)
 
 ## 📫 Me contacter
 
