@@ -1,4 +1,4 @@
- # Bonjour 👋, moi c'est Mario Tahaka
+ # Bonjour 👋, moi c'est TAHAKA Fanomezana Mario
 
 🎓 Étudiant en 3ᵉ année en informatique, je m'intéresse particulièrement au développement d'applications web et desktop.
 
